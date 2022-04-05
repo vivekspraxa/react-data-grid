@@ -1,4 +1,4 @@
-# react-data-grid
+# react-data-grid (Vivek)
 
 [![npm-badge]][npm-url]
 [![type-badge]][npm-url]
